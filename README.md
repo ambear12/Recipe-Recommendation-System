@@ -1,5 +1,5 @@
 # Recipe-Recommendation-System
-An application that take in a list of user ingredients and returns recipes containing those ingredients.
+An application that take in a list of user ingredients and returns recipes containing those ingredients. Also contains some data visualization of the recipe data.
 
 Author: Amber Lanier
 
